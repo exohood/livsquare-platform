@@ -1,67 +1,154 @@
-# Introduction
-In the nexus of technology and real estate, Livsquare emerges as the apex innovation, offering a transformative experience that melds the state-of-the-art advancements in tech with the dynamic demands of modern realty. Conceptualized by visionaries, designed by tech maestros, and used by forward thinking individuals, Livsquare is not just another real estate platform; it's the future.
 
-# Unique Technological Features of Livsquare
+# Livsquare - Legacy Repository
 
-1. Blockchain-secured Transactions: At its core, Livsquare uses cutting-edge blockchain algorithms. Gone are the days of questionable transactional integrity and security concerns. Livsquare ensures that every deal, big or small, is encrypted, secured, and immutable.
+> ⚠️ **PUBLIC DEVELOPMENT PERMANENTLY DISCONTINUED**
+>
+> Exohood Labs. has permanently discontinued the public development and maintenance of this Livsquare repository.
+>
+> **This repository is no longer maintained, supported, or open to external contributions.**
+>
+> Livsquare continues as a privately developed real estate and investment technology platform. Its current applications, proprietary software, financial systems, and operational infrastructure are maintained separately from this historical repository.
+>
+> This repository does not represent the current production platform or provide access to its internal systems.
 
-2. AI-driven Support: With deep integration of neural networks and machine learning models, Livsquare provides users with round-the-clock AI support. Be it tenant inquiries, property management issues, or analytical insights, our AI is trained to assist with precision and speed.
+## About Livsquare
 
-3. VR Immersion: Livsquare's Virtual Reality tours harness the power of technologies like Three.js and WebVR API. Prospective buyers or tenants can now experience properties from thousands of miles away, ensuring they can make decisions with the same confidence as an in-person visit.
+Livsquare is a real estate technology platform focused on property management, investment portfolio administration, financial reporting, and digital asset related research.
 
-4. Metaverse Real Estate: Pioneering the domain of digital property management, Livsquare facilitates the purchase, design, and management of metaverse real estate, tapping into the burgeoning world of virtual property and its limitless potential.
+The platform has evolved from its original technology concepts into privately managed applications and services.
 
-5. Holistic Platform: Livsquare isn't just a property listing service. With its integrated solutions, it caters to every aspect of property management, from moving and repair services to real-time price analytics, all informed by comprehensive data sets and predictive algorithms.
+Its current development is conducted through internal systems and controlled infrastructure.
 
-# The Technical Underpinnings:
+**The public availability of this repository does not imply that Livsquare's production software or proprietary technologies are open source.**
 
-* Backend Mastery: Built on the robust framework of Node.js and Express.js, Livsquare ensures scalability and efficiency.
+## Historical Project Overview
 
-* Frontend Elegance: React.js paired with Redux ensures a responsive, intuitive user interface, while Three.js powers the VR integrations, creating lifelike immersive experiences.
+This repository originally explored the integration of emerging technologies into real estate applications.
 
-* Database Integration: The amalgamation of MongoDB's NoSQL flexibility and Postgres' relational strengths means that Livsquare is prepared to handle varied data demands with speed and reliability.
+The research and development concepts included:
 
-* Artificial Intelligence: TensorFlow, a leading end-to-end open-source platform, powers the AI integrations, while Dialogflow ensures natural, fluid interactions with users.
+- Blockchain based transaction records and digital asset infrastructure.
+- Artificial intelligence applications for property management and user assistance.
+- Virtual reality property visualization.
+- Experimental virtual real estate concepts.
+- Property administration and investment management tools.
+- Financial analytics and portfolio reporting.
+- Integration of database systems and web application frameworks.
 
-# Features
+These descriptions represent historical project objectives and technical proposals.
 
-1. Blockchain-secured Transactions: Leveraging advanced blockchain algorithms to ensure the integrity and security of every transaction.
+They should not be interpreted as confirmation that every feature was implemented, commercially released, or remains available in the current Livsquare platform.
 
-2. AI Assistance: Empowering users with 24/7 AI-driven support for resolving property and tenant inquiries.
+## Historical Technology References
 
-3. VR Property Tours: Facilitates real-time property tours with a seamless VR experience.
+Earlier project documentation referenced several technologies for research and application development.
 
-4. Virtual Real Estate Management: Offering a plethora of metaverse property management solutions, from designing virtual offices to hosting corporate events.
+| Area | Historical Technologies |
+|---|---|
+| Backend | Node.js, Express.js |
+| Frontend | React.js, Redux |
+| Blockchain | Ethereum, Solidity |
+| Databases | MongoDB, PostgreSQL |
+| Artificial Intelligence | TensorFlow, Dialogflow |
+| Visualization | Three.js, A-Frame, WebVR API |
 
-5. Integrated Services: From moving services, repair assistance to insurances, Livsquare offers a comprehensive suite of property management tools.
+These technologies were identified in the original project documentation.
 
-# Technologies Used
-* Backend: Node.js, Express.js
-* Blockchain: Ethereum, Solidity
-* Database: MongoDB, Postgres
-* Frontend: React.js, Redux, Three.js (for VR integration)
-* AI: TensorFlow, Dialogflow
-* VR: A-Frame, WebVR API
+**This table is a historical reference and does not constitute an inventory of the current production technology stack.**
 
-# Installation and Setup
+The present Livsquare architecture, internal applications, database systems, security components, and infrastructure are managed privately.
 
-# API Documentation
-API documentation is available here. This provides comprehensive details on all endpoints, payloads, and expected responses.
+## Public Development — Closed
 
-# System Architecture
-Refer to the ARCHITECTURE.md file for a detailed overview of the system's architecture, including microservices, data flow diagrams, and infrastructure details.
+> 🔒 **EXTERNAL CONTRIBUTIONS NO LONGER ACCEPTED**
+>
+> The former public development and collaboration program has been permanently closed.
+>
+> Exohood Labs no longer accepts external contributions to this repository.
 
-# Database Schemas
-Our platform leverages both MongoDB and Postgres. Detailed schema representations and relationships are documented in SCHEMA.md.
+The following activities have been discontinued:
 
-# Development Guidelines
-Developers are encouraged to adhere to the coding standards and guidelines detailed in DEVELOPMENT.md.
+- Public development contributions.
+- Pull requests for new features or modifications.
+- Community maintained development branches.
+- External participation in platform architecture.
+- Public access to internal databases and APIs.
+- Requests for proprietary application source code.
+- Community managed deployment procedures.
+- Technical support for legacy implementations.
 
-# Contribution Guide
-Interested in contributing to Livsquare? Please review our contribution guidelines and code of conduct in CONTRIBUTING.md.
+Previously published contribution guides, installation instructions, and development procedures are retained only for historical reference.
 
-# License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+## Proprietary Development
 
-# Contact
-For any inquiries, issues, or collaboration opportunities, please contact us at livsquare@exohood.com.
+Livsquare's current software development is privately managed.
+
+Its internal technologies may include proprietary financial processing, investor dashboards, portfolio administration, compliance workflows, transaction management, and operational reporting.
+
+These systems are separate from the public repository.
+
+Access to Livsquare's internal applications, databases, algorithms, administrative interfaces, and operational infrastructure is not granted through this repository.
+
+Exohood Labs and the relevant Livsquare operating entities retain their respective intellectual property rights.
+
+Any public materials are governed by their applicable licenses and copyright notices.
+
+## Repository Status
+
+| Component | Status |
+|---|---|
+| Public Repository Development | Discontinued |
+| External Contributions | Closed |
+| Pull Requests | Not Accepted |
+| Public Maintenance | Discontinued |
+| Legacy Code Support | Unavailable |
+| Production Infrastructure | Private |
+| Current Platform Development | Privately Managed |
+| Repository Purpose | Historical and Educational Reference |
+
+## Security and Maintenance
+
+This repository may contain historical software implementations, outdated dependencies, experimental code, and development configurations that are no longer used.
+
+**Do not use this repository to manage real investments, process financial transactions, store investor information, or operate production financial services.**
+
+The repository is not maintained as a secure or production ready application.
+
+Exohood Labs does not guarantee its continued functionality, compatibility, security, or compliance with current regulatory requirements.
+
+No ongoing security updates, technical maintenance, or deployment assistance are provided for this historical repository.
+
+## Licensing and Intellectual Property
+
+The original repository identified the MIT License as applicable to its published software.
+
+Source code validly released under the MIT License remains subject to that license.
+
+**Discontinuing public development does not revoke rights already granted under an applicable open source license.**
+
+However, historical licensing does not extend to:
+
+- Unpublished Livsquare source code.
+- Proprietary investor dashboards and financial systems.
+- Internal administrative applications.
+- Private databases and infrastructure.
+- Commercial software developed separately.
+- Confidential documentation and operational information.
+
+All historical materials are provided **"AS IS"**, without warranties of functionality, security, accuracy, or fitness for a particular purpose, to the extent permitted by applicable law.
+
+## Final Notice
+
+**This repository is permanently discontinued as a public development project.**
+
+Livsquare's current development and operations are managed separately through private infrastructure.
+
+This repository is retained exclusively for historical, educational, and archival purposes.
+
+No external contributions, maintenance, or technical support are available.
+
+---
+
+**Repository Status: Public Development Permanently Discontinued**
+
+**Platform Status: Privately Developed and Managed**
